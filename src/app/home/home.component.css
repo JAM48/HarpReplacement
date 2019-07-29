@@ -1,9 +1,4 @@
 
-#logo {
-  cursor: pointer;
-}
-
-
 font-face { font-family:georgia;
     font-weight:400;
     font-style:normal
@@ -635,4 +630,3 @@ h1 { font-size:28px }
        display:inline-block
     }
 }
-

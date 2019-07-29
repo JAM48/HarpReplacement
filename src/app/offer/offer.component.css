@@ -1,0 +1,14 @@
+
+div {
+    margin: 3%
+}
+
+div h3:nth-child(2) {
+    background-color: antiquewhite;
+    width: max-content;
+}
+
+p:nth-child(odd) {
+    background-color: azure;
+    width: max-content;
+}

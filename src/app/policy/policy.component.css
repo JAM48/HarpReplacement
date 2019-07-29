@@ -1,0 +1,18 @@
+
+p {
+    margin: 3%;
+}
+
+p:nth-child(odd) {
+    background-color: whitesmoke;
+    width: max-content;
+}
+
+p:nth-child(even) {
+    background-color: cornsilk;
+    width: max-content;
+}
+
+h4 {
+    font-family: elephant;
+}
